@@ -100,20 +100,27 @@ Includes:
 
 ## 📸 Dashboard Preview
 
-> Replace these image paths with the correct GitHub paths after renaming your screenshots.
+### 📊 Executive Dashboard
 
-### Executive Dashboard
+The Executive Dashboard provides an overview of business performance through key performance indicators, sales trends, and customer segmentation.
 
-![Executive Dashboard](Screenshots/Executive_Dashboard.png)
+![Executive Dashboard](Executive_Dashboard.png)
 
-### Product & Customer Insights
+---
 
-![Product & Customer Insights](Screenshots/Product_Customer_Insights.png)
+### 📦 Product & Customer Insights
 
-### Regional & Profit Analysis
+This dashboard focuses on product performance, category-wise sales, and profitability to identify top-performing products and business opportunities.
 
-![Regional & Profit Analysis](Screenshots/Regional_Profit_Analysis.png)
+![Product & Customer Insights](Product_Customer_Insights.png)
 
+---
+
+### 🌍 Regional & Profit Analysis
+
+This dashboard analyzes geographical sales distribution, regional performance, shipping modes, yearly sales trends, and the relationship between discounts and profit.
+
+![Regional & Profit Analysis](Regional_Profit_Analysis.png)
 ---
 
 ## 📈 Key Features
